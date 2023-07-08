@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+
+select,
+option{
+    background-color: greenyellow;
+}
+
+button{
+    background-color: greenyellow;
+}
+
+.fotn{
+    opacity: 1;
+    height: 30%;
+    width: 30%;
+}
